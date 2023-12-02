@@ -1,8 +1,8 @@
 
-# JavaScript Pokedex [![Netlify Status](https://api.netlify.com/api/v1/badges/1d25827f-112b-48e7-a333-bf00a660f0fa/deploy-status)](https://app.netlify.com/sites/jspokedex-pokeapi/deploys)
+# JavaScript Pokedex 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1d25827f-112b-48e7-a333-bf00a660f0fa/deploy-status)](https://app.netlify.com/sites/jspokedex-pokeapi/deploys)
-![GitHub last commit](https://img.shields.io/github/last-commit/alexcamargos/JavaScript-Pokedex?style=for-the-badge)
+
 
 Desenvolvimento de uma _Pokédex_ consumindo uma API RESTful por meio da linguagem javascript. Construído como parte do "Desafio de Projeto Construindo uma Pokédex com JavaScript" parta da trilha "Primeiras Páginas Interativas com JavaScript" proposto pelo _Cloud Fullstack Bootcamp - oferecido pela [DIO.me](https://www.dio.me).
 
